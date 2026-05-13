@@ -1,1 +1,3 @@
-# Kabutumiki Stock Data
+# Stock Data
+
+日本株の銘柄コード（ティッカー）と名称を保持するマスターデータです。
